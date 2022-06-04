@@ -1,3 +1,4 @@
 *.js @kakigouri
 *.html @kakigouri
 .github/ @redemption-001
+*.go
