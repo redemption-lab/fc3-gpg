@@ -1,4 +1,4 @@
-*.js @kakigouri
-*.html @kakigouri
+*.js @kakigouri @redemption-001
+*.html @kakigouri @redemption-001
 .github/ @redemption-001
-*.go
+*.go @redemption-001
